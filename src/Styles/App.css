@@ -1,0 +1,40 @@
+.flex {
+    display: flex;
+}
+.aic {
+    align-items: center;
+}
+.jcc {
+    justify-content: center;
+}
+.fdc {
+    flex-direction: column;
+}
+.jcsb {
+    justify-content: space-between;
+}
+.fdr {
+    flex-direction: row;
+}
+.view-height {
+    height: 100vh;
+}
+.view-width {
+    width: 100vw;
+}
+.height100 {
+    height: 100%;
+}
+.width100 {
+    width: 100%;
+}
+.cp {
+    cursor: pointer;
+}
+.tac {
+    text-align: center;
+}
+.margin-center {
+    margin-left: auto;
+    margin-right: auto;
+}
